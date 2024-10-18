@@ -1,4 +1,4 @@
-Password Cracking Script Explanation
+Password Cracking Script 
 
 This script is a simple demonstration of a password cracking technique known as a dictionary attack. It takes a given password and checks it against a predefined list of potential passwords (a wordlist).
 
